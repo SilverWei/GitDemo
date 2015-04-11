@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         
         println(name)
         println("number:456123")
+        println("WT")
     }
 
     override func didReceiveMemoryWarning() {
