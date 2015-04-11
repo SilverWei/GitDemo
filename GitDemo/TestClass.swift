@@ -9,6 +9,6 @@
 import Foundation
 
 class Test: NSObject {
-    var name:String
-    var age:Int
+    var name:String = ""
+    var age:Int = 0
 }
